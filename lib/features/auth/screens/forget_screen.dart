@@ -5,7 +5,7 @@ class ForgotPasswordScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final emailController = TextEditingController();
+    final emailController = TextEditingController();//
 
     return Scaffold(
       appBar: AppBar(title: const Text("Quên mật khẩu")),
