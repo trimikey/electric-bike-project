@@ -1,0 +1,21 @@
+# Flutter/Dart build files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Gradle files
+android/.gradle/
+android/app/build/
+
+# APKs
+*.apk
+
+# iOS build files
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/engine/
